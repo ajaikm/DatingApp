@@ -1,2 +1,2 @@
 # DatingApp
-Simple dating application dot-net core and angular.
+Simple dating application using dot-net core and angular.
